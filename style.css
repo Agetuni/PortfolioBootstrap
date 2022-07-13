@@ -1,7 +1,31 @@
 body {
-    background-color: #191765;
-    ;
+  background-color: #191765;
+  ;
 }
-nav {
-    color: #fff;
+
+.name {
+  font-size: 90px;
+  color: #7d73fc;
+}
+
+.job {
+  font-size: 40px;
+}
+
+.introduction-paragraph {
+  color: #B3BAC5;
+  width: 40%;
+}
+
+.technology {
+  width: 40%;
+}
+
+.technology-header {
+  font-size: 18px;
+  color: #9490ff;
+}
+
+ul {
+  list-style: none;
 }
