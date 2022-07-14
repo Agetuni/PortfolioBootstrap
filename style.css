@@ -51,6 +51,14 @@ footer {
   width: 50%;
 }
 
+button {
+  background: #9390FF;
+}
+
+.email {
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   .card-container {
     display: flex;
