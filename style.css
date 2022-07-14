@@ -2,7 +2,6 @@ body {
   background-color: #191765;
 }
 
-
 .name {
   font-size: 90px;
   color: #7d73fc;
@@ -13,7 +12,7 @@ body {
 }
 
 .introduction-paragraph {
-  color: #B3BAC5;
+  color: #b3bac5;
   width: 40%;
 }
 
@@ -37,7 +36,7 @@ ul {
 
 .Lets_chat {
   font-size: 40px;
-  color: #9390FF;
+  color: #9390ff;
 }
 
 label {
@@ -45,14 +44,14 @@ label {
 }
 
 .form_section {
-  width: 50%
+  width: 50%;
 }
 
 footer {
   width: 50%;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .card-container {
     display: flex;
   }
