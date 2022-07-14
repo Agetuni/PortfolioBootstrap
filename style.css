@@ -1,7 +1,7 @@
 body {
   background-color: #191765;
-  ;
 }
+
 
 .name {
   font-size: 90px;
@@ -42,4 +42,26 @@ ul {
 
 label {
   display: none;
+}
+
+.form_section {
+  width: 50%
+}
+
+footer {
+  width: 50%;
+}
+
+@media (max-width:768px) {
+  .card-container {
+    display: flex;
+  }
+
+  .card-one {
+    order: 2;
+  }
+
+  .card-two {
+    order: 2;
+  }
 }
